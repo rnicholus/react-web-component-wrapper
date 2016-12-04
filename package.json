@@ -1,0 +1,47 @@
+{
+  "name": "react-web-component-wrapper",
+  "version": "0.1.0-1",
+  "license": "MIT",
+  "description": "Easily integrate a Web Component into your project using familiar React conventions",
+  "author":     {
+    "name": "Ray Nicholus",
+    "url": "http://raynicholus.com"
+  },
+  "homepage": "https://github.com/FineUploader/react-web-component-wrapper#readme",
+  "repository": "https://github.com/FineUploader/react-web-component-wrapper",
+  "keywords": [
+    "javascript",
+    "webcomponents",
+    "customelements",
+    "htmlimport",
+    "react"
+  ],
+  "main": "lib/index.js",
+  "peerDependencies": {
+    "react": "0.14.x || 15.x.x"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "babel-cli": "latest",
+    "babel-core": "latest",
+    "babel-loader": "latest",
+    "babel-preset-es2015": "latest",
+    "babel-preset-react": "latest",
+    "babel-plugin-syntax-class-properties": "latest",
+    "babel-plugin-transform-class-properties": "latest",
+    "babel-plugin-transform-object-rest-spread": "latest",
+    "jasmine": "latest",
+    "jasmine-core": "latest",
+    "karma": "latest",
+    "karma-firefox-launcher": "latest",
+    "karma-jasmine": "latest",
+    "karma-sourcemap-loader": "latest",
+    "karma-spec-reporter": "latest",
+    "karma-webpack": "latest",
+    "react": "latest",
+    "react-addons-test-utils": "latest",
+    "react-dom": "latest",
+    "webpack": "latest"
+  },
+  "scripts": {}
+}
